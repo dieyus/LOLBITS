@@ -1,9 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.852
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LOLBITS", "LOLBITS\LOLBITS.csproj", "{29D09AA4-EA0C-47C2-973C-1D768087D527}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LOLBITS.App", "LOLBITS.App\LOLBITS.App.csproj", "{29D09AA4-EA0C-47C2-973C-1D768087D527}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8F7E46EF-1980-446F-947A-3FD76998B0CE}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
